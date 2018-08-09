@@ -33,16 +33,16 @@ A lot of beginners are interested in trying these platforms for their hobby proj
 
 P.S: Incase there are other avenues for cloud credits, please raise a PR and update this section.
 
-Update (August 2, 2018):
+**Update (August 2, 2018):**
 - 42 hours of 1080 GPU credits by [Snark AI](https://snark.ai) for [fastai](https://course.fast.ai) students. Promo Code available on [fastai forums](http://forums.fast.ai/t/free-gpu-credits-for-fast-ai-courses/20183).
 
-Update (July 6, 2018):
+**Update (July 6, 2018):**
 - 100 hours of GPU credits by [FloydHub](https://www.floydhub.com) by the folks at RemoteML. Check our their [tweet](https://twitter.com/remoteML/status/1015058652263153664) to avail the credits.
 
-Update (May 8, 2018):
+**Update (May 8, 2018):**
 - 15$ credit in [PaperSpace](https://www.paperspace.com) for [fastai](https://course.fast.ai) students. Credit Code available [here](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges).
 
-Update (June, 2018):
+**Update (June, 2018):**
 - [Kaggle](https://www.kaggle.com) announces [UNLIMITED FREE Access](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu) to a K80 GPU on their Kaggle Kernels platform. The GPU instances time out every 6 hours after but you could restart any number of times.
 
 
