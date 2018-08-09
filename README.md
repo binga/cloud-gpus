@@ -37,7 +37,7 @@ P.S: Incase there are other avenues for cloud credits, please raise a PR and upd
 - 42 hours of 1080 GPU credits by [Snark AI](https://snark.ai) for [fastai](https://course.fast.ai) students. Promo Code available on [fastai forums](http://forums.fast.ai/t/free-gpu-credits-for-fast-ai-courses/20183).
 
 **Update (July 6, 2018):**
-- 100 hours of GPU credits by [FloydHub](https://www.floydhub.com) by the folks at RemoteML. Check our their [tweet](https://twitter.com/remoteML/status/1015058652263153664) to avail the credits.
+- 100 hours of GPU give away by [FloydHub](https://www.floydhub.com) to the folks at RemoteML. Check our their [tweet](https://twitter.com/remoteML/status/1015058652263153664) to participate.
 
 **Update (May 8, 2018):**
 - 15$ credit in [PaperSpace](https://www.paperspace.com) for [fastai](https://course.fast.ai) students. Credit Code available [here](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges).
