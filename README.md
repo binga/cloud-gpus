@@ -11,7 +11,7 @@ This repository contains information about service providers who host GPUs in th
 | [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                                   | 300$ free credit)          | V100, P100, P4                                   | Per second | 9-Aug-18        | 
 | **[Google Colaboratory](https://colab.research.google.com/)**                                    | Unlimited (12 hours block) | K80                                                | **Free**       | 9-Aug-18        | 
 | **[Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)** | Unlimited (6 hours block)  | K80                                                | **Free**       | 9-Aug-18        | 
-| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)    | 12 months free.            | V100, P100, M60                                  | Per second | 9-Aug-18        | 
+| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)    | [100$ credit for students](https://azure.microsoft.com/en-in/free/students/)            | V100, P100, M60                                  | Per second | 9-Aug-18        | 
 | [Nvidia Cloud](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/)         | -                          | DGX2, DGX1, V100                                 | Not clear! | 9-Aug-18        | 
 | [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                         | -                          | V100, P100                                       | Per hour   | 9-Aug-18        | 
 | [IBM Cloud](https://www.ibm.com/cloud/gpu)                                            | 60 days 50% off.           | V100, P100, M60                                  | Per hour   | 9-Aug-18        | 
@@ -32,6 +32,9 @@ This repository contains information about service providers who host GPUs in th
 A lot of beginners are interested in trying these platforms for their hobby project, take it for a spin and choose the platform of their choice. Vendors also provide promo codes to let newcomers try their platform. Various online courses also provide cloud credits for their students. This section will keep posting new sources of credits for the benefit of everyone.
 
 P.S: Incase there are other avenues for cloud credits, please raise a PR and update this section.
+
+**Update (August 10, 2018):**
+- 75-150$ of AWS credits for students with [GitHub Education Pack](https://education.github.com/pack). You would need a *.edu* student email address.
 
 **Update (August 2, 2018):**
 - 42 hours of 1080 GPU credits by [Snark AI](https://snark.ai) for [fastai](https://course.fast.ai) students. Promo Code available on [fastai forums](http://forums.fast.ai/t/free-gpu-credits-for-fast-ai-courses/20183).
