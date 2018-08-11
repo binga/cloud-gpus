@@ -24,7 +24,8 @@ This repository contains information about service providers who host GPUs in th
 | [Vast.AI](https://vast.ai/)                                                           | -                          | V100, 1080Ti, P100                               | Per hour   | 9-Aug-18        | 
 | [LeaderGPU](https://www.leadergpu.com/)                                               | -                          | V100, 1080Ti, 1080                               | Per minute | 9-Aug-18        | 
 | [GPUEater](https://gpueater.com/)                                                     | -                          | Radeon Vega Frontier, Radeon Vega 56, Radeon 580 | Per second | 9-Aug-18        | 
-| [Exoscale](https://exoscale.com/)                                                     | -                          | P100                                               | Per minute | 9-Aug-18        | 
+| [Exoscale](https://exoscale.com/)                                                     | -                          | P100                                               | Per minute | 9-Aug-18        |
+| [DeepCognition](https://deepcognition.ai/)                                            | 2 hours                    | V100, K80                                          | Per hour | 12-Aug-18        | 
 ---
 
 ## Cloud Credits
@@ -32,6 +33,9 @@ This repository contains information about service providers who host GPUs in th
 A lot of beginners are interested in trying these platforms for their hobby project, take it for a spin and choose the platform of their choice. Vendors also provide promo codes to let newcomers try their platform. Various online courses also provide cloud credits for their students. This section will keep posting new sources of credits for the benefit of everyone.
 
 P.S: Incase there are other avenues for cloud credits, please raise a PR and update this section.
+
+**Update (August 12, 2018):**
+- 2 hours of free trial on [DeepCognition](https://deepcognition.ai/).
 
 **Update (August 10, 2018):**
 - 75-150$ of AWS credits for students with [GitHub Education Pack](https://education.github.com/pack). You would need a *.edu* student email address.
