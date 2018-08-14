@@ -27,6 +27,7 @@ This repository contains information about service providers who host GPUs in th
 | [Exoscale](https://exoscale.com/)                                                     | -                          | P100                                               | Per minute | 9-Aug-18        |
 | [DeepCognition](https://deepcognition.ai/)                                            | 2 hours                    | V100, K80                                          | Per hour | 12-Aug-18        |
 | [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs)                                            | -                    | V100, P4, P100                                          | Per hour | 14-Aug-18        | 
+| [Spell](https://spell.run/)                                            | -                    | V100, K80                                          | Not clear | 15-Aug-18        |
 ---
 
 ## Cloud Credits
