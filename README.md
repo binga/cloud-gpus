@@ -27,7 +27,7 @@ This repository contains information about service providers who host GPUs in th
 | [Exoscale](https://exoscale.com/)                                                     | -                          | P100                                               | Per minute | 9-Aug-18        |
 | [DeepCognition](https://deepcognition.ai/)                                            | 2 hours                    | V100, K80                                          | Per hour | 12-Aug-18        |
 | [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs)                                            | -                    | V100, P4, P100                                          | Per hour | 14-Aug-18        | 
-| [Spell](https://spell.run/)                                            | -                    | V100, K80                                          | Not clear | 15-Aug-18        |
+| [Spell](https://spell.run/)                                            | -                    | V100, K80                                          | Per second | 17-Aug-18        |
 ---
 
 ## Cloud Credits
@@ -35,6 +35,9 @@ This repository contains information about service providers who host GPUs in th
 A lot of beginners are interested in trying these platforms for their hobby project, take it for a spin and choose the platform of their choice. Vendors also provide promo codes to let newcomers try their platform. Various online courses also provide cloud credits for their students. This section will keep posting new sources of credits for the benefit of everyone.
 
 P.S: Incase there are other avenues for cloud credits, please raise a PR and update this section.
+
+**Update (August 17, 2018):**
+- 20$ of credit (~100 hours of GPU compute) for fastai students by [Vast.ai](https://vast.ai/). Check their announcement [here](http://forums.fast.ai/t/vast-ai-easy-docker-based-peer-gpu-rental-training-costs-3x-to-5x-less-plus-100-200-hours-of-credit-for-fast-ai-students/20919).
 
 **Update (August 12, 2018):**
 - 2 hours of free trial on [DeepCognition](https://deepcognition.ai/).
