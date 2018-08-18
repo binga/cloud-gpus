@@ -8,7 +8,7 @@ This repository contains information about service providers who host GPUs in th
 | GPU Cloud Provider                                                                              | Free Tier                  | Top 3 GPUs                                         | Billing   | Last Updated | 
 |---------------------------------------------------------------------------------------|----------------------------|----------------------------------------------------|------------|-----------------| 
 | [Amazon Web Services (AWS)](https://aws.amazon.com/ec2/instance-types/p2/)                                  | -                          | V100, K80                                        | Per minute | 9-Aug-18        | 
-| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                                   | 300$ free credit)          | V100, P100, P4                                   | Per second | 9-Aug-18        | 
+| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                                   | 300$ free credit          | V100, P100, P4                                   | Per second | 9-Aug-18        | 
 | **[Google Colaboratory](https://colab.research.google.com/)**                                    | Unlimited (12 hours block) | K80                                                | **Free**       | 9-Aug-18        | 
 | **[Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)** | Unlimited (6 hours block)  | K80                                                | **Free**       | 9-Aug-18        | 
 | [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)    | [100$ credit for students](https://azure.microsoft.com/en-in/free/students/)            | V100, P100, M60                                  | Per second | 9-Aug-18        | 
@@ -37,13 +37,13 @@ A lot of beginners are interested in trying these platforms for their hobby proj
 P.S: Incase there are other avenues for cloud credits, please raise a PR and update this section.
 
 **Update (August 17, 2018):**
-- 20$ of credit (~100 hours of GPU compute) for fastai students by [Vast.ai](https://vast.ai/). Check their announcement [here](http://forums.fast.ai/t/vast-ai-easy-docker-based-peer-gpu-rental-training-costs-3x-to-5x-less-plus-100-200-hours-of-credit-for-fast-ai-students/20919).
+- 20$ of credit (~100 hours of GPU compute) for [fastai](https://course.fast.ai) students by [Vast.ai](https://vast.ai/). Check their announcement [here](http://forums.fast.ai/t/vast-ai-easy-docker-based-peer-gpu-rental-training-costs-3x-to-5x-less-plus-100-200-hours-of-credit-for-fast-ai-students/20919).
 
 **Update (August 12, 2018):**
 - 2 hours of free trial on [DeepCognition](https://deepcognition.ai/).
 
 **Update (August 10, 2018):**
-- 75-150$ of AWS credits for students with [GitHub Education Pack](https://education.github.com/pack). You would need a *.edu* student email address.
+- 75-150$ AWS credits for students with [GitHub Education Pack](https://education.github.com/pack). You would need a *.edu* student email address.
 
 **Update (August 2, 2018):**
 - 42 hours of 1080 GPU credits by [Snark AI](https://snark.ai) for [fastai](https://course.fast.ai) students. Promo Code available on [fastai forums](http://forums.fast.ai/t/free-gpu-credits-for-fast-ai-courses/20183).
@@ -62,11 +62,11 @@ P.S: Incase there are other avenues for cloud credits, please raise a PR and upd
 
 ## GPUs and their Manufacturers
 
-| GPU                  | Vendor | 
+| GPU                  | Manufacturer | 
 |----------------------|--------| 
 | V100                 | Nvidia | 
 | 1080Ti               | Nvidia | 
-| 1080Ti               | Nvidia | 
+| 1080                 | Nvidia | 
 | P6000                | Nvidia | 
 | P5000                | Nvidia | 
 | M60                  | Nvidia | 
