@@ -28,6 +28,8 @@ This repository contains information about service providers who host GPUs in th
 | [DeepCognition](https://deepcognition.ai/)                                            | 2 hours                    | V100, K80                                          | Per hour | 12-Aug-18        |
 | [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs)                                            | -                    | V100, P4, P100                                          | Per hour | 14-Aug-18        | 
 | [Spell](https://spell.run/)                                            | -                    | V100, K80                                          | Per second | 17-Aug-18        |
+| [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                            | -                    | 1080Ti, 1070                                          | Per hour | 20-Aug-18        |
+| [Riseml](https://riseml.com/)                                            | -                    | V100                                          | Per minute | 20-Aug-18        |
 ---
 
 ## Cloud Credits
