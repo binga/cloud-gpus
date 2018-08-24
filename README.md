@@ -31,6 +31,8 @@ This repository contains information about service providers who host GPUs in th
 | [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                            | -                    | 1080Ti, 1070                                          | Per hour | 20-Aug-18        |
 | [Riseml](https://riseml.com/)                                            | -                    | V100                                          | Per minute | 20-Aug-18        |
 | [Neptune ML](https://neptune.ml/)                                            | 5$ credit                    | P100, K80                                          | Per hour | 22-Aug-18        |
+| [Lambda Labs](https://lambdalabs.com/)                                            | -                    | K80                                          | Per hour | 24-Aug-18        |
+| [Valohai](https://valohai.com/)                                            | -                    | V100, K80                                          | Per second | 24-Aug-18        |
 ---
 
 ## Cloud Credits
