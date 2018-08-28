@@ -33,6 +33,7 @@ This repository contains information about service providers who host GPUs in th
 | [Neptune ML](https://neptune.ml/)                                            | 5$ credit                    | P100, K80                                          | Per hour | 22-Aug-18        |
 | [Lambda Labs](https://lambdalabs.com/)                                            | -                    | K80                                          | Per hour | 24-Aug-18        |
 | [Valohai](https://valohai.com/)                                            | -                    | V100, K80                                          | Per second | 24-Aug-18        |
+| [VScaler](https://www.vscaler.com/)                                            | [1GPU for a week](https://www.vscaler.com/free-gpu-cloud-trial/)                    | V100                                          | Not sure! | 29-Aug-18        |
 ---
 
 ## Cloud Credits
