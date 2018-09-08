@@ -31,10 +31,10 @@ costs low when deciding to choose their preferred platform.
 | [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $1.21     | $3.24      | $0.03         | 8-Sep-18     |
 | [FloydHub](https://www.floydhub.com/)                                                                 | $1.20     | $4.20      | 100GB max     | 8-Sep-18     |
 | [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | $2.65     | -          | ???           | 8-Sep-18     |
-| [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???           | 8-Sep-18     |
 | [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | -         | ???        | ???           | 8-Sep-18     |
 | [Lambda Labs](https://lambdalabs.com/)                                                                | -         | ???        | ???           | 8-Sep-18     |
 | [Nvidia Cloud](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/)                         | ???       | ???        | ???           | 8-Sep-18     |
+| [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???           | 8-Sep-18     |
 | [Valohai](https://valohai.com/)                                                                       | ???       | ???        | ???           | 8-Sep-18     |
 | [VScaler](https://www.vscaler.com/)                                                                   | ???       | ???        | ???           | 8-Sep-18     |
 
@@ -52,9 +52,9 @@ costs low when deciding to choose their preferred platform.
 | [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                       | -          | $1.15          | $0.09         | 8-Sep-18     |
 | [Neptune ML](https://neptune.ml/)                                                                     | $2.15      | -              | $0.28         | 8-Sep-18     |
 | [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $2.22      | -              | $0.03         | 8-Sep-18     |
-| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | 8-Sep-18     |
-| [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | 8-Sep-18     |
 | [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | ???        | -              | ???           | 8-Sep-18     |
+| [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | 8-Sep-18     |
+| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | 8-Sep-18     |
 
 ## Notes
 
