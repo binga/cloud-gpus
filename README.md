@@ -15,8 +15,6 @@ costs low when deciding to choose their preferred platform.
 
 | GPU Cloud Provider                                                                                    | K80 Price | V100 Price | Storage Price | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | ------------- | ------------ |
-| [Amazon Web Services (AWS)](https://aws.amazon.com/ec2/instance-types/p2/)                            | $0.90     | $3.06      | $0.10         | 8-Sep-18     |
-| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $1.21     | $3.24      | $0.03         | 8-Sep-18     |
 | [Google Collaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max      | 8-Sep-18     |
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max       | 8-Sep-18     |
 | [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10         | 8-Sep-18     |
@@ -28,7 +26,9 @@ costs low when deciding to choose their preferred platform.
 | [Neptune ML](https://neptune.ml/)                                                                     | $0.64     | -          | $0.28         | 8-Sep-18     |
 | [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $0.87     | $2.95      | $0.10         | 8-Sep-18     |
 | [LeaderGPU](https://www.leadergpu.com/)                                                               | -         | $3.00      | $0.13         | 8-Sep-18     |
+| [Amazon Web Services (AWS)](https://aws.amazon.com/ec2/instance-types/p2/)                            | $0.90     | $3.06      | $0.10         | 8-Sep-18     |
 | [DeepCognition](https://deepcognition.ai/)                                                            | $0.90     | $3.06      | ???           | 8-Sep-18     |
+| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $1.21     | $3.24      | $0.03         | 8-Sep-18     |
 | [FloydHub](https://www.floydhub.com/)                                                                 | $1.20     | $4.20      | 100GB max     | 8-Sep-18     |
 | [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | $2.65     | -          | ???           | 8-Sep-18     |
 | [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???           | 8-Sep-18     |
