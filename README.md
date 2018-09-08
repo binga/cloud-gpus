@@ -77,9 +77,9 @@ The prices for Google Cloud Platform assume you've attached the GPUs to a
 
 Nvidia manufactures all the GPUs listed here
 
-| GPU                                                                                                                        | TFlops (double / single precision) | Manufacturer |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------ |
-| [K80](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/TeslaK80-datasheet.pdf)      | 1.9 / 5.6                          | Nvidia       |
-| [V100](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf)             | 7.8 / 125.0                        | Nvidia       |
-| [P100](https://images.nvidia.com/content/tesla/pdf/nvidia-tesla-p100-datasheet.pdf)                                        | 5.3 / 10.6                         | Nvidia       |
-| [GTX 1080](https://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_1080_Whitepaper_FINAL.pdf) | 8.8 / 8.8                          | Nvidia       |
+| GPU                                                                                                                        | TFlops (double / single precision) |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [K80](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/TeslaK80-datasheet.pdf)      | 1.9 / 5.6                          |
+| [V100](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf)             | 7.8 / 125.0                        |
+| [P100](https://images.nvidia.com/content/tesla/pdf/nvidia-tesla-p100-datasheet.pdf)                                        | 5.3 / 10.6                         |
+| [GTX 1080](https://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_1080_Whitepaper_FINAL.pdf) | 8.8 / 8.8                          |
