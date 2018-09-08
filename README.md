@@ -62,8 +62,8 @@ Google Cloud Platform gives you
 [$300 free compute credits](https://cloud.google.com/free/)
 
 Azure gives
-[100$ free compute credits](https://azure.microsoft.com/en-in/free/students/)
-for students
+[$100 free compute credits](https://azure.microsoft.com/en-in/free/students/)
+to students
 
 Google Collaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
 and limited to 6/12/24 hour sessions
