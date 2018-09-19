@@ -76,7 +76,7 @@ and limited to 6 / 12 / 24 hour sessions
 
 - Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
-- [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/) & [Salamander](https://salamander.ai/) give approximately $1 credits to anyone
+- [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/), [Salamander](https://salamander.ai/) & [Crestle](https://www.crestle.com/) give approximately $1 credits to anyone
 
 ## GPU Datasheets
 
