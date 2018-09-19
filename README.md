@@ -58,13 +58,6 @@ costs low when deciding to choose their preferred platform.
 
 ## Notes
 
-- Google Cloud Platform gives you
-[$300 free compute credits](https://cloud.google.com/free/)
-
-- Azure gives
-[$100 free compute credits](https://azure.microsoft.com/en-in/free/students/)
-to students
-
 - Google Colaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
 and limited to 6/12/24 hour sessions
 
@@ -73,28 +66,18 @@ and limited to 6/12/24 hour sessions
 
 - 250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
 
-### Cloud Credits
+### Free Compute Credits
 
-For the benefit of beginners, we included a cloud credits section which will help beginners try these platforms for their hobby project, take it for a spin and choose the platform of their choice.
+- Google Cloud Platform gives you
+[$300 free compute credits](https://cloud.google.com/free/)
 
-Update (August 17, 2018):
-- 20$ of credit (~100 hours of GPU compute) for fastai students by Vast.ai. Check their announcement here.
+- AWS gives [$110 free compute credits](https://education.github.com/pack/) to students, in partnership with GitHub
 
-Update (August 12, 2018):
-- 2 hours of free trial on DeepCognition.
+- Azure gives
+[$100 free compute credits](https://azure.microsoft.com/en-in/free/students/)
+to students
 
-Update (August 10, 2018):
-- 75-150$ AWS credits for students with [GitHub Education Pack](https://education.github.com/pack). You would need a .edu student email address.
-
-Update (August 2, 2018):
-- 42 hours of 1080 GPU credits by Snark AI for fastai students. Promo Code available on fastai forums.
-
-Update (July 6, 2018):
-- 100 hours of GPU give away by FloydHub to the folks at RemoteML. Check out their tweet to participate.
-
-Update (May 8, 2018):
-- 15$ credit in PaperSpace for fastai students. Credit Code available here.
-
+- Paperspace gives [$15 free compute credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
 ## GPU Datasheets
 
