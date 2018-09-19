@@ -13,30 +13,30 @@ costs low when deciding to choose their preferred platform.
 - GPU prices are per hour
 - Storage prices are per GB/month
 
-| GPU Cloud Provider                                                                                    | K80 Price | V100 Price | Storage Price | Last Updated |
-| ----------------------------------------------------------------------------------------------------- | --------- | ---------- | ------------- | ------------ |
-| [Google Collaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max      | 8-Sep-18     |
-| [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max       | 8-Sep-18     |
-| [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10         | 8-Sep-18     |
-| [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10         | 8-Sep-18     |
-| [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -             | 19-Sep-18    |
-| [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04         | 8-Sep-18     |
-| [Spell](https://spell.run/)                                                                           | $0.27     | $3.06      | ???           | 8-Sep-18     |
-| [Crestle](https://www.crestle.com/)                                                                   | $0.59     | -          | $0.42         | 8-Sep-18     |
-| [Neptune ML](https://neptune.ml/)                                                                     | $0.64     | -          | $0.28         | 8-Sep-18     |
-| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $0.87     | $2.95      | $0.10         | 8-Sep-18     |
-| [LeaderGPU](https://www.leadergpu.com/)                                                               | -         | $3.00      | $0.13         | 8-Sep-18     |
-| [Amazon Web Services (AWS)](https://aws.amazon.com/ec2/instance-types/p2/)                            | $0.90     | $3.06      | $0.10         | 8-Sep-18     |
-| [DeepCognition](https://deepcognition.ai/)                                                            | $0.90     | $3.06      | ???           | 8-Sep-18     |
-| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $1.21     | $3.24      | $0.03         | 8-Sep-18     |
-| [FloydHub](https://www.floydhub.com/)                                                                 | $1.20     | $4.20      | 100GB max     | 8-Sep-18     |
-| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | $2.65     | -          | ???           | 8-Sep-18     |
-| [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | -         | ???        | ???           | 8-Sep-18     |
-| [Lambda Labs](https://lambdalabs.com/)                                                                | -         | ???        | ???           | 8-Sep-18     |
-| [Nvidia Cloud](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/)                         | ???       | ???        | ???           | 8-Sep-18     |
-| [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???           | 8-Sep-18     |
-| [Valohai](https://valohai.com/)                                                                       | ???       | ???        | ???           | 8-Sep-18     |
-| [VScaler](https://www.vscaler.com/)                                                                   | ???       | ???        | ???           | 8-Sep-18     |
+| GPU Cloud Provider                                                                                    | K80 Price | V100 Price | Storage Price  | Last Updated |
+| ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
+| [Google Collaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max       | 8-Sep-18     |
+| [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
+| [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10          | 8-Sep-18     |
+| [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
+| [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -              | 19-Sep-18    |
+| [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04          | 8-Sep-18     |
+| [Spell](https://spell.run/)                                                                           | $0.27     | $3.06      | ???            | 8-Sep-18     |
+| [Crestle](https://www.crestle.com/)                                                                   | $0.59     | -          | $0.42          | 8-Sep-18     |
+| [Neptune ML](https://neptune.ml/)                                                                     | $0.64     | -          | $0.28          | 8-Sep-18     |
+| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $0.87     | $2.95      | $0.10          | 8-Sep-18     |
+| [LeaderGPU](https://www.leadergpu.com/)                                                               | -         | $3.00      | $0.13          | 8-Sep-18     |
+| [Amazon Web Services (AWS)](https://aws.amazon.com/ec2/instance-types/p2/)                            | $0.90     | $3.06      | $0.10          | 8-Sep-18     |
+| [DeepCognition](https://deepcognition.ai/)                                                            | $0.90     | $3.06      | ???            | 8-Sep-18     |
+| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $1.21     | $3.24      | $0.03          | 8-Sep-18     |
+| [FloydHub](https://www.floydhub.com/)                                                                 | $1.20     | $4.20      | 100GB included | 8-Sep-18     |
+| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | $2.65     | -          | ???            | 8-Sep-18     |
+| [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | -         | ???        | ???            | 8-Sep-18     |
+| [Lambda Labs](https://lambdalabs.com/)                                                                | -         | ???        | ???            | 8-Sep-18     |
+| [Nvidia Cloud](https://www.nvidia.com/en-us/data-center/gpu-cloud-computing/)                         | ???       | ???        | ???            | 8-Sep-18     |
+| [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???            | 8-Sep-18     |
+| [Valohai](https://valohai.com/)                                                                       | ???       | ???        | ???            | 8-Sep-18     |
+| [VScaler](https://www.vscaler.com/)                                                                   | ???       | ???        | ???            | 8-Sep-18     |
 
 ### Other GPUs
 
