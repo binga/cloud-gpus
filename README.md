@@ -69,15 +69,15 @@ and limited to 6/12/24 hour sessions
 ### Free Compute Credits
 
 - Google Cloud Platform gives you
-[$300 free compute credits](https://cloud.google.com/free/)
+[$300 credits](https://cloud.google.com/free/)
 
-- AWS gives [$110 free compute credits](https://education.github.com/pack/) to students, in partnership with GitHub
+- AWS gives [$110 credits](https://education.github.com/pack/) to students, in partnership with GitHub
 
 - Azure gives
-[$100 free compute credits](https://azure.microsoft.com/en-in/free/students/)
+[$100 credits](https://azure.microsoft.com/en-in/free/students/)
 to students
 
-- Paperspace gives [$15 free compute credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
+- Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
 ## GPU Datasheets
 
