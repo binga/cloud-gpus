@@ -59,7 +59,7 @@ costs low when deciding to choose their preferred platform.
 ## Notes
 
 - Google Colaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
-and limited to 6/12/24 hour sessions
+and limited to 6 / 12 / 24 hour sessions
 
 - The prices for Google Cloud Platform assume you've attached the GPUs to a
 "n1-standard-16" instance.
