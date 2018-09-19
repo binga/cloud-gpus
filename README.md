@@ -15,7 +15,7 @@ costs low when deciding to choose their preferred platform.
 
 | GPU Cloud Provider                                                                                    | K80 Price | V100 Price | Storage Price  | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
-| [Google Collaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max       | 8-Sep-18     |
+| [Google Colaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max       | 8-Sep-18     |
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
 | [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10          | 8-Sep-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
@@ -58,20 +58,43 @@ costs low when deciding to choose their preferred platform.
 
 ## Notes
 
-Google Cloud Platform gives you
+- Google Cloud Platform gives you
 [$300 free compute credits](https://cloud.google.com/free/)
 
-Azure gives
+- Azure gives
 [$100 free compute credits](https://azure.microsoft.com/en-in/free/students/)
 to students
 
-Google Collaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
+- Google Colaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
 and limited to 6/12/24 hour sessions
 
-The prices for Google Cloud Platform assume you've attached the GPUs to a
+- The prices for Google Cloud Platform assume you've attached the GPUs to a
 "n1-standard-16" instance.
 
-250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
+- 250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
+
+### Cloud Credits
+
+For the benefit of beginners, we included a cloud credits section which will help beginners try these platforms for their hobby project, take it for a spin and choose the platform of their choice.
+
+Update (August 17, 2018):
+- 20$ of credit (~100 hours of GPU compute) for fastai students by Vast.ai. Check their announcement here.
+
+Update (August 12, 2018):
+- 2 hours of free trial on DeepCognition.
+
+Update (August 10, 2018):
+- 75-150$ AWS credits for students with [GitHub Education Pack](https://education.github.com/pack). You would need a .edu student email address.
+
+Update (August 2, 2018):
+- 42 hours of 1080 GPU credits by Snark AI for fastai students. Promo Code available on fastai forums.
+
+Update (July 6, 2018):
+- 100 hours of GPU give away by FloydHub to the folks at RemoteML. Check out their tweet to participate.
+
+Update (May 8, 2018):
+- 15$ credit in PaperSpace for fastai students. Credit Code available here.
+
 
 ## GPU Datasheets
 
