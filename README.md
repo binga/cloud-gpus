@@ -19,8 +19,8 @@ costs low when deciding to choose their preferred platform.
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max       | 8-Sep-18     |
 | [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10         | 8-Sep-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10         | 8-Sep-18     |
+| [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -             | 19-Sep-18    |
 | [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04         | 8-Sep-18     |
-| [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.67      | -             | 8-Sep-18     |
 | [Spell](https://spell.run/)                                                                           | $0.27     | $3.06      | ???           | 8-Sep-18     |
 | [Crestle](https://www.crestle.com/)                                                                   | $0.59     | -          | $0.42         | 8-Sep-18     |
 | [Neptune ML](https://neptune.ml/)                                                                     | $0.64     | -          | $0.28         | 8-Sep-18     |
