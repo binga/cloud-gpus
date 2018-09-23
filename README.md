@@ -1,7 +1,7 @@
 # Cloud GPU Vendors
 
 This guide compares on-demand GPU vendors to help Machine Learning practitioners
-pick their preferred platform. Whether your an enthusiast, newcomer or expert
+pick their preferred platform. Whether you're an enthusiast, newcomer or expert
 this guide will help you track updates and keep your costs low.
 
 ## Cloud GPU Vendors
