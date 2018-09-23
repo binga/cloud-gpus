@@ -1,4 +1,4 @@
-# Cloud GPU Providers
+# Cloud GPU Vendors
 
 This repository contains information about service providers who host GPUs in
 the cloud for on-demand use for Machine Learning practitioners. This guide is
@@ -6,16 +6,16 @@ also designed to help enthusiasts, new-comers to this field and also experienced
 folks to keep a track of new updates made by all these vendors and keep their
 costs low when deciding to choose their preferred platform.
 
-## Cloud GPU Providers
+## Cloud GPU Vendors
 
 - "-" means not available
 - "???" means maybe available
 - GPU prices are per hour
 - Storage prices are per GB/month
 
-| GPU Cloud Provider                                                                                    | K80 Price | V100 Price | Storage Price  | Last Updated |
+| GPU Vendor                                                                                            | K80 Price | V100 Price | Storage Price  | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
-| [Google Colaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max       | 8-Sep-18     |
+| [Google Colaboratory](https://colab.research.google.com/)                                             | Free      | -          | 15GB max       | 8-Sep-18     |
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
 | [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10          | 8-Sep-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
@@ -40,7 +40,7 @@ costs low when deciding to choose their preferred platform.
 
 ### Other GPUs
 
-| GPU Cloud Provider                                                                                    | P100 Price | GTX 1080 Price | Storage Price | Last Updated |
+| GPU Vendor                                                                                            | P100 Price | GTX 1080 Price | Storage Price | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------- | ------------ |
 | [Snark AI](https://snark.ai/)                                                                         | $0.10      | -              | ???           | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $1.65      | $0.10          | -             | 8-Sep-18     |
