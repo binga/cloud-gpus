@@ -1,4 +1,4 @@
-# Cloud GPU Vendors
+# Cloud GPU Providers
 
 This repository contains information about service providers who host GPUs in
 the cloud for on-demand use for Machine Learning practitioners. This guide is
@@ -6,7 +6,7 @@ also designed to help enthusiasts, new-comers to this field and also experienced
 folks to keep a track of new updates made by all these vendors and keep their
 costs low when deciding to choose their preferred platform.
 
-## Cloud GPU Vendors
+## Cloud GPU Providers
 
 - "-" means not available
 - "???" means maybe available
