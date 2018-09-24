@@ -1,10 +1,8 @@
 # Cloud GPU Vendors
 
-This repository contains information about service providers who host GPUs in
-the cloud for on-demand use for Machine Learning practitioners. This guide is
-also designed to help enthusiasts, new-comers to this field and also experienced
-folks to keep a track of new updates made by all these vendors and keep their
-costs low when deciding to choose their preferred platform.
+This guide compares on-demand GPU vendors to help Machine Learning practitioners
+pick their preferred platform. Whether you're an enthusiast, newcomer or expert
+this guide will help you track updates and keep your costs low.
 
 ## Cloud GPU Vendors
 
@@ -13,9 +11,9 @@ costs low when deciding to choose their preferred platform.
 - GPU prices are per hour
 - Storage prices are per GB/month
 
-| GPU Cloud Provider                                                                                    | K80 Price | V100 Price | Storage Price  | Last Updated |
+| GPU Vendor                                                                                            | K80 Price | V100 Price | Storage Price  | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
-| [Google Collaboratory](https://colab.research.google.com/)                                            | Free      | -          | 15GB max       | 8-Sep-18     |
+| [Google Colaboratory](https://colab.research.google.com/)                                             | Free      | -          | 15GB max       | 8-Sep-18     |
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
 | [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10          | 8-Sep-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
@@ -40,7 +38,7 @@ costs low when deciding to choose their preferred platform.
 
 ### Other GPUs
 
-| GPU Cloud Provider                                                                                    | P100 Price | GTX 1080 Price | Storage Price | Last Updated |
+| GPU Vendor                                                                                            | P100 Price | GTX 1080 Price | Storage Price | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------- | ------------ |
 | [Snark AI](https://snark.ai/)                                                                         | $0.10      | -              | ???           | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $1.65      | $0.10          | -             | 8-Sep-18     |
@@ -58,20 +56,25 @@ costs low when deciding to choose their preferred platform.
 
 ## Notes
 
-Google Cloud Platform gives you
-[$300 free compute credits](https://cloud.google.com/free/)
+- Google Colaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
+and limited to 6 / 12 / 24 hour sessions
 
-Azure gives
-[$100 free compute credits](https://azure.microsoft.com/en-in/free/students/)
-to students
-
-Google Collaboratory, Kaggle Kernels & Crestle are only for Jupyter Notebooks
-and limited to 6/12/24 hour sessions
-
-The prices for Google Cloud Platform assume you've attached the GPUs to a
+- The prices for Google Cloud Platform assume you've attached the GPUs to a
 "n1-standard-16" instance.
 
-250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
+- 250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
+
+### Free Compute Credits
+
+- Google Cloud Platform gives [$300 credits](https://cloud.google.com/free/) to anyone
+
+- AWS gives [$110 credits](https://education.github.com/pack/) to students, in partnership with GitHub
+
+- Azure gives [$100 credits](https://azure.microsoft.com/en-in/free/students/) to students
+
+- Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
+
+- [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/), [Salamander](https://salamander.ai/) & [Crestle](https://www.crestle.com/) give approximately $1 credits to anyone
 
 ## GPU Datasheets
 
@@ -80,6 +83,6 @@ Nvidia manufactures all the GPUs listed here
 | GPU                                                                                                                        | TFlops (double / single precision) |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | [K80](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/TeslaK80-datasheet.pdf)      | 1.9 / 5.6                          |
-| [V100](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf)             | 7.8 / 125.0                        |
+| [V100](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf)             | 7.8 / 15.7                        |
 | [P100](https://images.nvidia.com/content/tesla/pdf/nvidia-tesla-p100-datasheet.pdf)                                        | 5.3 / 10.6                         |
 | [GTX 1080](https://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_1080_Whitepaper_FINAL.pdf) | 8.8 / 8.8                          |
