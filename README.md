@@ -15,12 +15,12 @@ this guide will help you track updates and keep your costs low.
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
 | [Google Colaboratory](https://colab.research.google.com/)                                             | Free      | -          | 15GB max       | 8-Sep-18     |
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
-| [Salamander](https://salamander.ai/)                                                                  | $0.37     | $1.32      | $0.10          | 8-Sep-18     |
+| [Salamander](https://salamander.ai/)                                                                  | $0.37     | $1.32      | $0.10          | 26-Oct-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -              | 19-Sep-18    |
+| [Crestle](https://www.crestle.ai/)                                                                   | $0.30     | -          | $0.10          | 26-Oct-18    |
 | [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04          | 8-Sep-18     |
 | [Spell](https://spell.run/)                                                                           | $0.27     | $3.06      | ???            | 8-Sep-18     |
-| [Crestle](https://www.crestle.com/)                                                                   | $0.59     | -          | $0.42          | 8-Sep-18     |
 | [Neptune ML](https://neptune.ml/)                                                                     | $0.64     | -          | $0.28          | 8-Sep-18     |
 | [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $0.87     | $2.95      | $0.10          | 8-Sep-18     |
 | [LeaderGPU](https://www.leadergpu.com/)                                                               | -         | $3.00      | $0.13          | 8-Sep-18     |
@@ -76,7 +76,7 @@ and limited to 6 / 12 / 24 hour sessions
 
 - Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
-- [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/), [Salamander](https://salamander.ai/) & [Crestle](https://www.crestle.com/) give approximately $1 credits to anyone
+- [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/) & [Crestle](https://www.crestle.com/) give approximately $1 credits to anyone
 
 ## GPU Datasheets
 
