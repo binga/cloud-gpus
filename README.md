@@ -15,7 +15,7 @@ this guide will help you track updates and keep your costs low.
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
 | [Google Colaboratory](https://colab.research.google.com/)                                             | Free      | -          | 15GB max       | 8-Sep-18     |
 | [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
-| [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10          | 8-Sep-18     |
+| [Salamander](https://salamander.ai/)                                                                  | $0.37     | $1.32      | $0.10          | 8-Sep-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -              | 19-Sep-18    |
 | [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04          | 8-Sep-18     |
@@ -71,6 +71,8 @@ and limited to 6 / 12 / 24 hour sessions
 - AWS gives [$110 credits](https://education.github.com/pack/) to students, in partnership with GitHub
 
 - Azure gives [$100 credits](https://azure.microsoft.com/en-in/free/students/) to students
+
+- Salamander gives [$82.50 credits](https://salamander.ai/redeem-aws-coupon) to students, by redeeming AWS coupons
 
 - Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
