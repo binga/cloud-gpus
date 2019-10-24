@@ -19,9 +19,8 @@ this guide will help you track updates and keep your costs low.
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -              | 19-Sep-18    |
 | [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04          | 8-Sep-18     |
-| [Spell](https://spell.run/)                                                                           | $0.27     | $3.06      | -            | 8-Sep-18     |
+| [Spell](https://spell.run/)                                                                           | $0.9     | $3.06      | -            | 24-Oct-19     |
 | [Crestle](https://www.crestle.com/)                                                                   | $0.59     | -          | $0.42          | 8-Sep-18     |
-| [Neptune ML](https://neptune.ml/)                                                                     | $0.64     | -          | $0.28          | 8-Sep-18     |
 | [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $0.87     | $2.95      | $0.10          | 8-Sep-18     |
 | [LeaderGPU](https://www.leadergpu.com/)                                                               | -         | $3.00      | $0.13          | 8-Sep-18     |
 | [Amazon Web Services (AWS)](https://aws.amazon.com/ec2/instance-types/p2/)                            | $0.90     | $3.06      | $0.10          | 8-Sep-18     |
