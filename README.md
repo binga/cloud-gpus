@@ -39,21 +39,22 @@ this guide will help you track updates and keep your costs low.
 - @ - It's now possible to [connect Google Colaboratory to a V100 by connecting it to a GCP instance.](https://colab.research.google.com/drive/1Xh0slMoD1dfi8iTQJbO18uuCilJMLoKc)
 ### Other GPUs
 
-| GPU Vendor                                                                                            | P100 Price | GTX 1080 Price | Storage Price | Last Updated |
-| ----------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------- | ------------ |
-| [Snark AI](https://snark.ai/)                                                                         | $0.10      | -              | ???           | 8-Sep-18     |
-| [Vast.AI](https://vast.ai/)                                                                           | $1.65      | $0.10          | -             | 8-Sep-18     |
-| [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | $1.28      | -              | $0.04         | 8-Sep-18     |
-| [Vector Dash](https://vectordash.com/)                                                                | -          | $0.51          | ???           | 8-Sep-18     |
-| [LeaderGPU](https://www.leadergpu.com/)                                                               | $1.50      | $0.75          | $0.13         | 8-Sep-18     |
-| [Paperspace](https://www.paperspace.com/)                                                             | $1.72      | -              | $0.10         | 8-Sep-18     |
-| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $2.00      | -              | $0.13         | 8-Sep-18     |
-| [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                       | -          | $1.15          | $0.09         | 8-Sep-18     |
-| [Neptune ML](https://neptune.ml/)                                                                     | $2.15      | -              | $0.28         | 8-Sep-18     |
-| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $2.22      | -              | $0.03         | 8-Sep-18     |
-| [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | ???        | -              | ???           | 8-Sep-18     |
-| [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | 8-Sep-18     |
-| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | 8-Sep-18     |
+| GPU Vendor                                                                                            | P100 Price | GTX 1080 Price | GTX 1080ti Price | Storage Price | Last Updated |
+| ----------------------------------------------------------------------------------------------------- | ---------- | -------------- | -------------    | ------------- | ------------ |
+| [Genesis Cloud](https://genesiscloud.com/)                                                            | -          | -              | $0.15            | FREE          | 29-Jan-20    |
+| [Snark AI](https://snark.ai/)                                                                         | $0.10      | -              | ???              | ???           | 8-Sep-18     |
+| [Vast.AI](https://vast.ai/)                                                                           | $1.65      | $0.10          | ???              | -             | 8-Sep-18     |
+| [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | $1.28      | -              | ???              | $0.04         | 8-Sep-18     |
+| [Vector Dash](https://vectordash.com/)                                                                | -          | $0.51          | ???              | ???           | 8-Sep-18     |
+| [LeaderGPU](https://www.leadergpu.com/)                                                               | $1.50      | $0.75          | ???              | $0.13         | 8-Sep-18     |
+| [Paperspace](https://www.paperspace.com/)                                                             | $1.72      | -              | ???              | $0.10         | 8-Sep-18     |
+| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $2.00      | -              | ???              | $0.13         | 8-Sep-18     |
+| [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                       | -          | $1.15          | ???              | $0.09         | 8-Sep-18     |
+| [Neptune ML](https://neptune.ml/)                                                                     | $2.15      | -              | ???              | $0.28         | 8-Sep-18     |
+| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $2.22      | -              | ???              | $0.03         | 8-Sep-18     |
+| [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | ???        | -              | ???              | ???           | 8-Sep-18     |
+| [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???              | ???           | 8-Sep-18     |
+| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???              | ???           | 8-Sep-18     |
 
 ## Notes
 
@@ -66,6 +67,8 @@ and limited to 6 / 12 / 24 hour sessions
 - 250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
 
 ### Free Compute Credits
+
+- Genesis Cloud gives $400 credits to anyone (just write to support@genesiscloud.com after signing-up)
 
 - Google Cloud Platform gives [$300 credits](https://cloud.google.com/free/) to anyone
 
@@ -81,9 +84,10 @@ and limited to 6 / 12 / 24 hour sessions
 
 Nvidia manufactures all the GPUs listed here
 
-| GPU                                                                                                                        | TFlops (double / single precision) |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [K80](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/TeslaK80-datasheet.pdf)      | 1.9 / 5.6                          |
-| [V100](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf)             | 7.8 / 15.7                        |
-| [P100](https://images.nvidia.com/content/tesla/pdf/nvidia-tesla-p100-datasheet.pdf)                                        | 5.3 / 10.6                         |
-| [GTX 1080](https://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_1080_Whitepaper_FINAL.pdf) | 8.8 / 8.8                          |
+| GPU                                                                                                                          | TFlops (double / single precision) |
+| --------------------------------------------------------------------------------------------------------------------------   | ---------------------------------- |
+| [K80](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-product-literature/TeslaK80-datasheet.pdf)        | 1.9 / 5.6                          |
+| [V100](https://images.nvidia.com/content/technologies/volta/pdf/tesla-volta-v100-datasheet-letter-fnl-web.pdf)               | 7.8 / 15.7                         |
+| [P100](https://images.nvidia.com/content/tesla/pdf/nvidia-tesla-p100-datasheet.pdf)                                          | 5.3 / 10.6                         |
+| [GTX 1080](https://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_1080_Whitepaper_FINAL.pdf)   | 0.28 / 8.8                         |
+| [GTX 1080ti](https://en.wikipedia.org/wiki/GeForce_10_series)                                                                | 0.36 / 11.3                        |
