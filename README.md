@@ -19,7 +19,7 @@ this guide will help you track updates and keep your costs low.
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -              | 19-Sep-18    |
 | [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | -         | $2.25      | $0.04          | 8-Sep-18     |
-| [Spell](https://spell.run/)                                                                           | $0.9     | $3.06      | -            | 24-Oct-19     |
+| [Spell](https://spell.run/)                                                                           | $0.9      | $3.06      | -            | 24-Oct-19     |
 | [Crestle](https://www.crestle.com/)                                                                   | $0.59     | -          | $0.42          | 8-Sep-18     |
 | [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $0.87     | $2.95      | $0.10          | 8-Sep-18     |
 | [LeaderGPU](https://www.leadergpu.com/)                                                               | -         | $3.00      | $0.13          | 8-Sep-18     |
@@ -34,6 +34,7 @@ this guide will help you track updates and keep your costs low.
 | [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???            | 8-Sep-18     |
 | [Valohai](https://valohai.com/)                                                                       | ???       | ???        | ???            | 8-Sep-18     |
 | [VScaler](https://www.vscaler.com/)                                                                   | ???       | ???        | ???            | 8-Sep-18     |
+| [NeuroAi](https://www.neuro-ai.co.uk/)                                                                | -         | $3.20      | -              | 21-Sep-20     |
 
 - *** Colaboratory provides free access to Google's TPU
 - @ - It's now possible to [connect Google Colaboratory to a V100 by connecting it to a GCP instance.](https://colab.research.google.com/drive/1Xh0slMoD1dfi8iTQJbO18uuCilJMLoKc)
@@ -65,6 +66,8 @@ and limited to 6 / 12 / 24 hour sessions
 
 - 250GB Paperspace volumes are $0.04 per GB; larger or smaller volumes cost more
 
+- With Neuro AI, you only pay for the time your model is training/predicting
+
 ### Free Compute Credits
 
 - Google Cloud Platform gives [$300 credits](https://cloud.google.com/free/) to anyone
@@ -76,6 +79,8 @@ and limited to 6 / 12 / 24 hour sessions
 - Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
 - [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/), [Salamander](https://salamander.ai/) & [Crestle](https://www.crestle.com/) give approximately $1 credits to anyone
+
+- [NeuroAi](https://www.neuro-ai.co.uk/) gives [£100 credits](https://dashboard.neuro-ai.co.uk/register) to anyone
 
 ## GPU Datasheets
 
