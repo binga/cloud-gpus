@@ -14,7 +14,7 @@ this guide will help you track updates and keep your costs low.
 | GPU Vendor                                                                                            | K80 Price | V100 Price | Storage Price  | Last Updated |
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------- | -------------- | ------------ |
 | [Google Colaboratory](https://colab.research.google.com/) (Free TPU***)                                 | Free      | -@          | 15GB max       | 8-Sep-18     |
-| [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)                 | Free      | -          | 8GB max        | 8-Sep-18     |
+| [Kaggle Kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)   (Free TPU***)               | Free      | -          | 8GB max        | 8-Sep-18     |
 | [Salamander](https://salamander.ai/)                                                                  | $0.36     | $1.17      | $0.10          | 8-Sep-18     |
 | [Paperspace](https://www.paperspace.com/)                                                             | $0.59     | $2.30      | $0.10          | 8-Sep-18     |
 | [Vast.AI](https://vast.ai/)                                                                           | $0.64     | $2.30      | -              | 19-Sep-18    |
@@ -37,7 +37,7 @@ this guide will help you track updates and keep your costs low.
 | [Hostkey](https://www.hostkey.com/)                                                                   | ???       | -          | ???            | 6-Oct-20     |
 
 
-- *** Colaboratory provides free access to Google's TPU
+- *** Colaboratory provides free access to Google's TPUs v2, and Kaggle has TPUs v3.
 - @ - It's now possible to [connect Google Colaboratory to a V100 by connecting it to a GCP instance.](https://colab.research.google.com/drive/1Xh0slMoD1dfi8iTQJbO18uuCilJMLoKc)
 ### Other GPUs
 
