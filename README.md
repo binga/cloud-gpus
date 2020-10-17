@@ -34,6 +34,8 @@ this guide will help you track updates and keep your costs low.
 | [Riseml](https://riseml.com/)                                                                         | -         | ???        | ???            | 8-Sep-18     |
 | [Valohai](https://valohai.com/)                                                                       | ???       | ???        | ???            | 8-Sep-18     |
 | [VScaler](https://www.vscaler.com/)                                                                   | ???       | ???        | ???            | 8-Sep-18     |
+| [Hostkey](https://www.hostkey.com/)                                                                   | ???       | -          | ???            | 6-Oct-20     |
+
 
 - *** Colaboratory provides free access to Google's TPU
 - @ - It's now possible to [connect Google Colaboratory to a V100 by connecting it to a GCP instance.](https://colab.research.google.com/drive/1Xh0slMoD1dfi8iTQJbO18uuCilJMLoKc)
@@ -54,6 +56,7 @@ this guide will help you track updates and keep your costs low.
 | [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | ???        | -              | ???           | 8-Sep-18     |
 | [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | 8-Sep-18     |
 | [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | 8-Sep-18     |
+| [Hostkey](https://www.hostkey.com/)                                                                   | ???        | -              | ???           | 6-Oct-20     |
 
 ## Notes
 
@@ -76,6 +79,8 @@ and limited to 6 / 12 / 24 hour sessions
 - Paperspace gives [$15 credits](https://github.com/asiedubrempong/fastai_deeplearn_part1/blob/master/tools/paperspace.md#summary-of-charges) to fast.ai students
 
 - [Vast.AI](https://vast.ai/), [DeepCognition](https://deepcognition.ai/), [Snark AI](https://snark.ai/), [Salamander](https://salamander.ai/) & [Crestle](https://www.crestle.com/) give approximately $1 credits to anyone
+
+- [Hostkey](https://www.hostkey.com/) give free trials to science projects and competitions
 
 ## GPU Datasheets
 
