@@ -41,22 +41,23 @@ this guide will help you track updates and keep your costs low.
 - @ - It's now possible to [connect Google Colaboratory to a V100 by connecting it to a GCP instance.](https://colab.research.google.com/drive/1Xh0slMoD1dfi8iTQJbO18uuCilJMLoKc)
 ### Other GPUs
 
-| GPU Vendor                                                                                            | P100 Price | GTX 1080 Price | Storage Price | Last Updated |
-| ----------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------- | ------------ |
-| [Snark AI](https://snark.ai/)                                                                         | $0.10      | -              | ???           | 8-Sep-18     |
-| [Vast.AI](https://vast.ai/)                                                                           | $1.65      | $0.10          | -             | 8-Sep-18     |
-| [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | $1.28      | -              | $0.04         | 8-Sep-18     |
-| [Vector Dash](https://vectordash.com/)                                                                | -          | $0.51          | ???           | 8-Sep-18     |
-| [LeaderGPU](https://www.leadergpu.com/)                                                               | $1.50      | $0.75          | $0.13         | 8-Sep-18     |
-| [Paperspace](https://www.paperspace.com/)                                                             | $1.72      | -              | $0.10         | 8-Sep-18     |
-| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $2.00      | -              | $0.13         | 8-Sep-18     |
-| [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                       | -          | $1.15          | $0.09         | 8-Sep-18     |
-| [Neptune ML](https://neptune.ml/)                                                                     | $2.15      | -              | $0.28         | 8-Sep-18     |
-| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $2.22      | -              | $0.03         | 8-Sep-18     |
-| [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | ???        | -              | ???           | 8-Sep-18     |
-| [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | 8-Sep-18     |
-| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | 8-Sep-18     |
-| [Hostkey](https://www.hostkey.com/)                                                                   | ???        | -              | ???           | 6-Oct-20     |
+| GPU Vendor                                                                                            | P100 Price | GTX 1080 Price | RTX 2080Ti Price | Storage Price | Last Updated |
+| ----------------------------------------------------------------------------------------------------- | ---------- | -------------- | ------------- | ------------- | ------------ |
+| [Snark AI](https://snark.ai/)                                                                         | $0.10      | -              | ???           | ???           | 8-Sep-18     |
+| [Vast.AI](https://vast.ai/)                                                                           | $1.65      | $0.10          | ???           | -             | 8-Sep-18     |
+| [Oracle Cloud](https://cloud.oracle.com/compute/gpu/features)                                         | $1.28      | -              | ???           | $0.04         | 8-Sep-18     |
+| [Vector Dash](https://vectordash.com/)                                                                | -          | $0.51          | ???           | ???           | 8-Sep-18     |
+| [LeaderGPU](https://www.leadergpu.com/)                                                               | $1.50      | $0.75          | ???           | $0.13         | 8-Sep-18     |
+| [Paperspace](https://www.paperspace.com/)                                                             | $1.72      | -              | ???           | $0.10         | 8-Sep-18     |
+| [Microsoft Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)          | $2.00      | -              | ???           | $0.13         | 8-Sep-18     |
+| [Ovh](https://www.ovh.com/world/public-cloud/instances/prices/)                                       | -          | $1.15          | ???           | $0.09         | 8-Sep-18     |
+| [Neptune ML](https://neptune.ml/)                                                                     | $2.15      | -              | ???           | $0.28         | 8-Sep-18     |
+| [Google Cloud Platform (GCP)](https://cloud.google.com/gpu/)                                          | $2.22      | -              | ???           | $0.03         | 8-Sep-18     |
+| [Alibaba Cloud](https://www.alibabacloud.com/product/gpu?spm=a3c0i.11728334.1144220.1.23794a1clKeiCs) | ???        | -              | ???           | ???           | 8-Sep-18     |
+| [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | ???           | 8-Sep-18     |
+| [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | ???           | 8-Sep-18     |
+| [Hostkey](https://www.hostkey.com/)                                                                   | ???        | -              | ???           | ???           | 6-Oct-20     |
+| [Puzl](https://puzl.ee/gpu-cloud)                                                                   | -          | -              | €0.29           | €0.12          | 26-Oct-20     |
 
 ## Notes
 
