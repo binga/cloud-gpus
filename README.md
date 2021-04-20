@@ -35,7 +35,7 @@ this guide will help you track updates and keep your costs low.
 | [Valohai](https://valohai.com/)                                                                       | ???       | ???        | ???            | 8-Sep-18     |
 | [VScaler](https://www.vscaler.com/)                                                                   | ???       | ???        | ???            | 8-Sep-18     |
 | [Hostkey](https://www.hostkey.com/)                                                                   | ???       | -          | ???            | 6-Oct-20     |
-
+| [MATPool(China)](https://matpool.com/)                                                                | $0.15     | $0.92      | ???            | 20-Apr-21     |
 
 - *** Colaboratory provides free access to Google's TPUs v2, and Kaggle has TPUs v3.
 - @ - It's now possible to [connect Google Colaboratory to a V100 by connecting it to a GCP instance.](https://colab.research.google.com/drive/1Xh0slMoD1dfi8iTQJbO18uuCilJMLoKc)
@@ -57,6 +57,7 @@ this guide will help you track updates and keep your costs low.
 | [Exoscale](https://exoscale.com/)                                                                     | ???        | -              | ???           | 8-Sep-18     |
 | [IBM Cloud](https://www.ibm.com/cloud/gpu)                                                            | ???        | -              | ???           | 8-Sep-18     |
 | [Hostkey](https://www.hostkey.com/)                                                                   | ???        | -              | ???           | 6-Oct-20     |
+| [MATPool(China)](https://matpool.com/)                                                                | $0.62      | -              | ???           | 20-Apr-21     |
 
 ## Notes
 
